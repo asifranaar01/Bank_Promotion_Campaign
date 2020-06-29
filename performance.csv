@@ -1,0 +1,7 @@
+ML Model,Dataset,Accuracy,Precision,Recall,F1 Score
+Random Forest,Suite1,0.853,0.864,0.835,0.849
+Random Forest,Suite2,0.856,0.872,0.83,0.851
+Random Forest,Suite3,0.863,0.869,0.834,0.851
+Gaussian Classifier,Suite1,0.765,0.799,0.756,0.777
+Gaussian Classifier,Suite2,0.769,0.804,0.756,0.779
+Gaussian Classifier,Suite3,0.77,0.806,0.749,0.776
